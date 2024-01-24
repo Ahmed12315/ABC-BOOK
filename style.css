@@ -1,0 +1,57 @@
+@font-face {
+    font-family: Lemon ;
+    src: url(./font/Lemon-Regular.ttf);
+}
+#top{
+    background-color: rgba(79, 228, 250, 0.699);
+
+}
+h1{
+    text-align: center;
+}
+.ABC, .BOOK{
+    color:red;
+    font-size: 3em;
+    padding: 1.2%;
+}
+.centre{
+    text-align: center;
+    text-decoration: none;
+    font-size: large;
+}
+a{
+    text-decoration: none;
+    color: blueviolet;
+    font-size: 1.5em;
+    
+}
+.for{
+    background-color: greenyellow;
+    height: 30px;
+    padding: 8px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2em;
+    font-weight:  bolder;
+}
+.Alphabate{
+    font-family: Lemon;
+    font-size: 2em;
+}
+img{
+    height: 130px;
+}
+
+.top{
+    margin-left: 90%;
+    background-color: rgba(26, 222, 128, 0.5);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2.5em;
+    position: fixed;
+    border-radius: 100px;
+    text-decoration: none;
+    padding: 0;
+    color: black;
+}
+.top:hover{
+    background-color:blue ;
+}
